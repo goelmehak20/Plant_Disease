@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plant Disease Classifier
 A web application to predict the disease in an infected potato plant using it's leaf and Convolutional Neural Networks.<br>
 
@@ -28,3 +29,6 @@ A web application to predict the disease in an infected potato plant using it's 
 
 #### Result page
 ![res](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/result.png)
+=======
+# Plant_Disease
+>>>>>>> 7c5231d6cf5c46802bfc71a14ad6f1c67ed91f58
